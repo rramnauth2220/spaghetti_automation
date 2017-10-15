@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>spaghettiCOI</label>
+		<id>29</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>spaghettiCOI.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>spaghettiCOI.jcp</path>
+		</project>
+	</projects>
+</workspace>

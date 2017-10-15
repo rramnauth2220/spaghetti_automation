@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>spaghettiCOI</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>spaghettiCOI</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Calibrator.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>main.java.sdk</path>
+			<symbols>
+				<symbol>main</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>Calibrator.java.sdk</path>
+			<symbols>
+				<symbol>Calibrator</symbol>
+				<symbol>Listener</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>
